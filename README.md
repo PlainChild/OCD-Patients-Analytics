@@ -65,7 +65,7 @@ It provides both demographic attributes and clinical data, with the essential co
 ![Image](https://github.com/user-attachments/assets/23b9ff4e-6811-4b32-9c77-d28bdb8a2b02)
 - Column chart for compulsion types ratio
 ![Image](https://github.com/user-attachments/assets/d47302fa-5348-4c53-961e-02f1336fe272)
-5. Data visualization is also created in Excel since free version Power BI is unable to share the dashboard to public. (Excel file download link is at the bottom)
+5. Data visualization is also created in Excel as the alternative of Power BI dashboard. (Excel file download link is at the bottom)
 
 
 ## Insights & Findings
